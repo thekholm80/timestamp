@@ -1,0 +1,15 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "FCC Timestamp Microservice",
+  "main": "timestamp.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node timestamp.js"
+  },
+  "author": "Kyle Holm",
+  "license": "ISC"
+}
